@@ -17,7 +17,7 @@ I have created this dataset and its analysis for educational and analytical purp
 
 🎖️ Retail Store Analysis Project
 
-This project analyzes retail store performance using transaction, refund, and inventory data from "Retail Store Analysis.xlsx." The report identifies key operational issues, including high return rates for pricing errors and cashier mistakes, low PC Optimum engagement, and inventory shortages for high-demand items. It provides actionable insights, such as improving pricing updates, enhancing cashier training, and optimizing stock management. Visualizations like bar and pie charts highlight return patterns and sales trends. Recommendations aim to boost customer satisfaction, reduce returns, and increase profitability. Detailed solutions are tailored for senior management to drive strategic improvements.
+This project analyzes retail store performance using transaction, refund, and inventory data from "Retail Store Analysis.xlsx." The report identifies key operational issues, including high return rates for pricing errors and cashier mistakes, and inventory shortages for high-demand items. It provides actionable insights, such as improving pricing updates, enhancing cashier training, and optimizing stock management. Visualizations like bar and pie charts highlight return patterns and sales trends. Recommendations aim to boost customer satisfaction, reduce returns, and increase profitability. Detailed solutions are tailored for senior management to drive strategic improvements.
 
 💡 Conclusion
 1. Observation: Thursdays and Sundays are the busiest days, driven by weekend shopping and new Thursday promotions, with 23 and 28 transactions, respectively. (No action required)
